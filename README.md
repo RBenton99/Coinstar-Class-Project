@@ -10,7 +10,7 @@ The next parts that I had to work on was the input questions and spaces where th
 This part was simple as it was just assigning input values to the right places for them to be.
 So this section of code is just the printed prompt repeated but for each coin mentioned being the only change and the the area where the value would be stored.
 The next section of code is the formula for computing the total value of all of the coins, and was formateed into dollars and cents, hence the float type.
-The formula would take the input for each coin and muliply iy by its value, so the amount of pennies would be multiplyed by .01 as that it the inherent worth of one penny.
+The formula would take the input for each coin and multiply it by its value, so the amount of pennies would be multiplyed by .01 as that it the inherent worth of one penny.
 The same structure was repeated of "amount from prompt" multiplyed by the inherent amount, and between each coin section they would be added to a runnning total.
 The next section is the text section that prints to the screen a message saying "You have an X amount of Y coins."
 This was just to show that the program actually recognized the amount that was input by the user.
